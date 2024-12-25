@@ -1,0 +1,1 @@
+This repository contains an example of an ArrayIndexOutOfBounds error in ActionScript and its solution. The bug occurs when trying to access an array element using an index that is out of bounds. The solution demonstrates how to check the array bounds before accessing an element.
